@@ -105,4 +105,8 @@ Then update the live demo link at the top of this README.
 
 ## Author
 
-"# commercecore" 
+Arian Tech
+
+Portfolio: your-portfolio.com
+GitHub: ariantechzone-stack
+LinkedIn: linkedin.com/in/arian-varx-0660b539b
