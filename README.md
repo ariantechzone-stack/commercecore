@@ -2,13 +2,19 @@
 
 A full-featured e-commerce admin dashboard built with React. Manage products, orders, and customers from a clean, responsive interface.
 
-🔗 **[Live Demo](https://commerce-core-mu.vercel.app/))** &nbsp;|&nbsp; ⭐ Star this repo if you find it useful!
+🔗 **[Live Demo]((https://commerce-core-mu.vercel.app/))** &nbsp;|&nbsp; ⭐ Star this repo if you find it useful!
 
 ---
 
 ## Screenshots
 
-> _Add screenshots here after deploying — a GIF of the UI is even better._
+><img width="1366" height="768" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/65fe5832-f40c-4844-9143-cb3c1f5dd3c3" />
+
+ <img width="1366" height="768" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/91ed0de4-46cc-4024-ba3c-55dfec5e00cc" />
+<img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/3facdc18-a17f-441a-8e92-3e040211250d" />
+
+<img width="1366" height="768" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/ae61d389-38ce-429d-a5a1-e0ec5c580ddf" />
+<img width="1366" height="768" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/52f03eea-4e2b-4caf-8961-107102326f6d" />
 
 ---
 
