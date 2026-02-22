@@ -7,7 +7,7 @@ A full-featured e-commerce admin dashboard built with React. Manage products, or
 ---
 
 ## Screenshots
-Admin page login credentials below the password field
+Admin page login credentials below the Signing button
 
 ><img width="1366" height="768" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/65fe5832-f40c-4844-9143-cb3c1f5dd3c3" />
 
