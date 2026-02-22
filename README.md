@@ -112,5 +112,5 @@ Then update the live demo link at the top of this README.
 Arian Tech
 
 Portfolio: [Live](https://ariandesigns-dev.vercel.app)
-GitHub:[Live](https://github.com/ariantechzone-stack)
-LinkedIn:[Live](https://www.linkedin.com/in/arian-varx-0660b539b)
+GitHub: [Live](https://github.com/ariantechzone-stack)
+LinkedIn: [Live](https://www.linkedin.com/in/arian-varx-0660b539b)
