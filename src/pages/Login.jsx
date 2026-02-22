@@ -38,7 +38,7 @@ function Login() {
         </button>
 
         <p className="text-sm text-gray-400 mt-4 text-center">
-          Demo: admin@commerce.com / 1234
+          E-Mail: admin@commerce.com / Pass: 1234
         </p>
       </form>
     </div>
