@@ -15,7 +15,7 @@ Dashboard:
  <img width="1366" height="768" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/91ed0de4-46cc-4024-ba3c-55dfec5e00cc" />
  Products Page:
 <img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/3facdc18-a17f-441a-8e92-3e040211250d" />
-Orders: 
+Orders Page: 
 <img width="1366" height="768" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/ae61d389-38ce-429d-a5a1-e0ec5c580ddf" />
 Customers Page:
 <img width="1366" height="768" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/52f03eea-4e2b-4caf-8961-107102326f6d" />
